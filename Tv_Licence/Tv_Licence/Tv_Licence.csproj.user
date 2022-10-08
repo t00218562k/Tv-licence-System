@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmCancelLicence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmIssueNotice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLicenceNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmOverdueLicence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPropertyHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRenewLicence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTransferLicence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmYearlyAuthority.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmYearlyRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
