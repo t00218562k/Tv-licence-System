@@ -1,0 +1,288 @@
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.exe
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.deps.json
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.json
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.dev.json
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.AssemblyReference.cache
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmCancelLicence.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmIssueNotice.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmLicenceNew.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmMainMenu.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmPropertyHistory.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmRenewLicence.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmTransferLicence.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmYearlyRevenue.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.Properties.Resources.resources
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.GenerateResource.cache
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfoInputs.cache
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfo.cs
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CoreCompileInputs.cache
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CopyComplete
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\t00218562\Documents\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.genruntimeconfig.cache
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.AssemblyReference.cache
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmCancelLicence.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmIssueNotice.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmLicenceNew.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmMainMenu.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmPropertyHistory.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmRenewLicence.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmTransferLicence.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmYearlyRevenue.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.Properties.Resources.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.GenerateResource.cache
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfoInputs.cache
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfo.cs
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CoreCompileInputs.cache
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.exe
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.deps.json
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.json
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.dev.json
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CopyComplete
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.genruntimeconfig.cache
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmOverdueLicence.resources
+C:\Users\t00218562\Desktop\Ibrahim Khalid - RE Project\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.AssemblyReference.cache
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmCancelLicence.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmIssueNotice.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmLicenceNew.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmMainMenu.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmOverdueLicence.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmPropertyHistory.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmRenewLicence.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmTransferLicence.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmYearlyRevenue.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.Properties.Resources.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.GenerateResource.cache
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfoInputs.cache
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfo.cs
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CoreCompileInputs.cache
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.exe
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.deps.json
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.json
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.dev.json
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CopyComplete
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.genruntimeconfig.cache
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmYearlyAuthority.resources
+C:\Users\t00218562\Desktop\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.AssemblyReference.cache
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmCancelLicence.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmIssueNotice.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmLicenceNew.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmMainMenu.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmOverdueLicence.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmPropertyHistory.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmRenewLicence.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmTransferLicence.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmYearlyAuthority.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmYearlyRevenue.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.Properties.Resources.resources
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.GenerateResource.cache
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfoInputs.cache
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfo.cs
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CoreCompileInputs.cache
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.exe
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.deps.json
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.json
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.dev.json
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CopyComplete
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.genruntimeconfig.cache
+C:\Users\t00218562\Desktop\Backup\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.exe
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.deps.json
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.json
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.runtimeconfig.dev.json
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.AssemblyReference.cache
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmCancelLicence.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmIssueNotice.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmLicenceNew.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmMainMenu.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmOverdueLicence.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmPropertyHistory.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmRenewLicence.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmTransferLicence.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmYearlyAuthority.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.frmYearlyRevenue.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.Properties.Resources.resources
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.GenerateResource.cache
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfoInputs.cache
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.AssemblyInfo.cs
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.csproj.CoreCompileInputs.cache
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.dll
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.pdb
+C:\Users\ibi\Desktop\SWEP_Ibrahim_Khalid\Tv_Licence\Tv_Licence\obj\Debug\netcoreapp3.1\Tv_Licence.genruntimeconfig.cache
