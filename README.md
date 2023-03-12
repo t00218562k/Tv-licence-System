@@ -13,17 +13,16 @@ The system will be connected to a database which allows the system to store the 
 Admin login is "admin123".
 
 
-1.
+
 # User Requirements
 
-  1.
 ## TvLicenceSYS will manage Purchases
 
     1. TvLicenceSYS will add a licence.
     2. TvLicenceSYS will update the transfer of a licence.
     3. TvLicenceSYS will update the cancelling of a licence.
 
-  1.
+  
 ## TvLicenceSYS will process Renewals
 
     1. TvLicenceSYS will produce soon to be expired licenses.
@@ -31,7 +30,7 @@ Admin login is "admin123".
     3. TvLicenceSYS will produce overdue licenses.
     4. TvLicenceSYS will produce property history of purchased licence.
 
-  1.
+  
 ## TvLicenceSYS will provide Admin functionality
 
     1. TvLicenceSYS will produce a yearly revenue analysis.
@@ -50,7 +49,7 @@ History(LicenceId, Street, Town, County, ExpiryDate, Fee, stat, Cus\_Id)
 
 History(StartDate, Fee)
 
-  1.
+  
 ## Database Schema
 
 A definition of the database to be implemented.
